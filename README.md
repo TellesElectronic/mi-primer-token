@@ -1,9 +1,10 @@
-## Foundry
+## Mi Primer Contrato Inteligente - Hardhat + Sepolia Telles
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
+Contrato 0xcC5A68851591202cB887Af22EB4FbEb990BC75fA
+## Descripción
+Este es un contrato inteligente simple que permite almacenar y modificar un nombre. Desarrollado como ejercicio práctico del curso de desarrollo Web3 en UPTA (Universidad Politécnica Territorial del Estado Aragua).
+## 🚀 Tecnologías Utilizadas
+- **Solidity ^0.8.20 **
 - **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
 - **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
 - **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
